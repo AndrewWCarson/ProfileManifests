@@ -116,6 +116,13 @@
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApple/com.apple.screencapture.png</string>
 		</dict>
+		<key>com.apple.sharingd</key>
+		<dict>
+			<key>hash</key>
+			<string>e9ed362b31c46d9719d8a5ba17ffdf8b</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApple/com.apple.sharingd.png</string>
+		</dict>
 	</dict>
 	<key>ManagedPreferencesApplications</key>
 	<dict>
@@ -273,6 +280,13 @@
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/com.google.santa.png</string>
 		</dict>
+		<key>com.hjuutilainen.MunkiAdmin</key>
+		<dict>
+			<key>hash</key>
+			<string>922d44cd97afe4017c724d131f059a26</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/com.hjuutilainen.MunkiAdmin.png</string>
+		</dict>
 		<key>com.hjuutilainen.bigsurblocker</key>
 		<dict>
 			<key>hash</key>
@@ -307,6 +321,13 @@
 			<string>f21be82184129ab82155f45e0f4a7308</string>
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/com.jamf.connect.verify.png</string>
+		</dict>
+		<key>com.jelockwood.pinpoint</key>
+		<dict>
+			<key>hash</key>
+			<string>5d9bf852011e1bd392c799659ba64823</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/com.jelockwood.pinpoint.png</string>
 		</dict>
 		<key>com.macpaw.site.theunarchiver</key>
 		<dict>
@@ -524,6 +545,20 @@
 			<string>ec2f5fd344592d4289b60674e1587b8a</string>
 			<key>path</key>
 			<string>Icons/ManagedPreferencesApplications/menu.nomad.shares.png</string>
+		</dict>
+		<key>net.glencode.Particulars</key>
+		<dict>
+			<key>hash</key>
+			<string>3268e02bc8b8aa87012fa71adb3be12b</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/net.glencode.Particulars.png</string>
+		</dict>
+		<key>net.glencode.Particulars.Widget</key>
+		<dict>
+			<key>hash</key>
+			<string>3268e02bc8b8aa87012fa71adb3be12b</string>
+			<key>path</key>
+			<string>Icons/ManagedPreferencesApplications/net.glencode.Particulars.Widget.png</string>
 		</dict>
 		<key>nl.root3.support</key>
 		<dict>
@@ -990,6 +1025,13 @@
 			<key>path</key>
 			<string>Icons/ManifestsApple/com.apple.mcxloginscripts.png</string>
 		</dict>
+		<key>com.apple.mcxprinting</key>
+		<dict>
+			<key>hash</key>
+			<string>2f2ff6a3aabd80b216217e0186158b7b</string>
+			<key>path</key>
+			<string>Icons/ManifestsApple/com.apple.mcxprinting.png</string>
+		</dict>
 		<key>com.apple.mdm</key>
 		<dict>
 			<key>hash</key>
@@ -1286,6 +1328,6 @@
 		</dict>
 	</dict>
 	<key>date</key>
-	<date>2021-07-22T04:18:42Z</date>
+	<date>2022-03-25T16:54:47Z</date>
 </dict>
 </plist>
